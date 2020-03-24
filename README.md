@@ -42,6 +42,18 @@ To learn more design detail for this project, please read [Paper and Documents](
 
 We persent project's roadmap here.
 
+### Contribute
+
+There are many way to contribute us. We welcome all type of contributions.
+
+#### Help with the design
+
+Please create issue for related project to discuss. Then you can propose a RFC to make these discuss to be a standard.
+
+#### Help with the implementations
+
+You can make issue and pull request for related implementation project.
+
 ## License
 
 MIT
