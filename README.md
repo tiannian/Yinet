@@ -18,18 +18,18 @@
 
 ## Project Design
 
-To learn more design detail for this project, please read [Paper and Documents](#Paper and Documents). Yinet is made up by some sub-project for different usage.
+To learn more design detail for this project, please read [Paper and Documents](#Paper and Documents). `Yinet` is made up by some sub-project for different usage.
 
 ### Paper and Documents
 
-- [Whitepaper](en/whitepaper.md): Describe` Yinet's aims and design principle.
+- [Whitepaper](en/whitepaper.md): Describe ` Yinet`'s aims and design principle.
 - [RFCs](en/rfcs/index.md): Describe the detail of project.
 
 ### Submodule
 
 ### Sub-project
 
-- [Stem](https://github.com/Yinet-project/Stem): Distributed infrastructure.
+- [Stem](https://github.com/Yinet-project/Stem): A distributed infrastructure.
 - [Lightcore](https://github.com/Yinet-project/Lightcore): A lightweight flexable blockchain framework.
 - [Hodor](https://github.com/Yinet-project/Hodor): Distributed AI Helper with RDF.
 - [Karma](https://github.com/Yinet-project/Karma): Advance cryptography toolkits.
