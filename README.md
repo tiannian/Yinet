@@ -5,11 +5,11 @@
 ## Table of Contents
 
 - [Overview](#Overview)
-- [Project Design](#Project Design)
-  - [Paper and Documents](#Paper and Documents)
+- [Project Design](#project-design)
+  - [Paper and Documents](#paper-and-documents)
   - [Submodule](#Submodule)
   - [Sub-project](#Sub-project)
-- [State of project](#State of project)
+- [State of project](#state-of-project)
 - [License](#License)
 
 ## Overview
